@@ -1,7 +1,10 @@
 # 概要
 
 個人開発です。
-以下の記事で解説しております。
+以下の記事で解説しています。
+
+【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。｜無名隱者
+https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress
 
 ---
 
